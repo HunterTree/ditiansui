@@ -1,0 +1,1 @@
+import{i as s,r as n}from"./index-BD4IXsS6.js";const f=s("bazi",()=>{const l=n(null),u=n(null),e=n(null);function t(o,i,r){l.value=o,u.value=i,e.value=r}function a(){l.value=null,u.value=null,e.value=null}return{bazi:l,fenxi:u,input:e,setResult:t,clear:a}});export{f as u};
